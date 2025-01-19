@@ -1,14 +1,18 @@
 /* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_printf_utils.c                                  :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: pthibaud <pthibaud@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/01/10 14:58:10 by pthibaud          #+#    #+#             */
-/*   Updated: 2025/01/15 16:22:44 by pthibaud         ###   ########.fr       */
+/*                                                     ..,,;;;,'..            */
+/*                                                 .'cx0XNNWWWNXKOdl;.        */
+/*   ft_printf_utils.c                           .;xXWNKOkkOKNMMMMMMW0l.      */
+/*                                              ,xNMXd,.   .cONMMMMMMMK;      */
+/*   Par: polaime <pthibaud>                   .:0WMX:      :XMMNNMMMMM0,     */
+/*                                             :KMMMk.      .lxdckMMMMWd.     */
+/*   Cree: 2025/01/19 13:50:28                ,OMMMMK,          ,0MMMWO'      */
+/*   Ameliore: 2025/01/19 14:42:13           .oWMMMMW0c.      .c0WMMWk,       */
+/*                                           'OMMWXNWMWKkddodkKWMMWKo.        */
+/*                                           'OMWk,,lx0XWWMMMMMWXOo'.         */
+/*   https://github.com/polaime              .oKx'    .';:clllc;'.            */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "ft_printf.h"
 
